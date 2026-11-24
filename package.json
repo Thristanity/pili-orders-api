@@ -1,0 +1,14 @@
+{
+  "name": "pili-orders-api",
+  "version": "1.0.0",
+  "description": "Small order API for the Pili Nut Candies shop (CS ELEC 2 lab starter)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
