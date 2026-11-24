@@ -4,7 +4,7 @@ const express = require('express');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const SHOP_NAME = process.env.SHOP_NAME || 'Pili Nut Candies';
+const SHOP_NAME = process.env.SHOP_NAME || 'Pili Nut Candies - Legazpi Official';
 
 app.use(express.json());
 
